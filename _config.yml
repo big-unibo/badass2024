@@ -7,6 +7,27 @@ description: "BADASS 2024 is an international workshop on Bridging AI and Data-c
 
 # Team names, titles and social links
 people:
+- name: Julien Aligon
+  pic: JA
+  position: IRIT - University Toulouse Capitole (France)
+  social:
+    - title: at
+      url: "julien.aligon@irit.fr"
+
+- name: Anton Dignos
+  pic: AD
+  position: Free University of Bozen-Bolzano (Italy)
+  social:
+    - title: at
+      url: "elodie.escriva@irit.fr"
+
+- name: Elodie Escriva
+  pic: EE
+  position: IRIT - University Toulouse Capitole (France)
+  social:
+    - title: at
+      url: "elodie.escriva@irit.fr"
+
 - name: Matteo Francia
   pic: MF
   position: DISI - University of Bologna
@@ -18,20 +39,16 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/matteo-francia/
 
-- name: Enrico Gallinucci
-  pic: EG
-  position: DISI - University of Bologna
+- name: Nicolas Labroche
+  pic: NL
+  position: LIFAT - University of Tours (France)
   social:
-    - title: university
-      url: https://www.unibo.it/sitoweb/enrico.gallinucci/en
     - title: at
-      url: "mailto:enrico.gallinucci@unibo.it"
-    - title: linkedin
-      url: https://www.linkedin.com/in/enricogallinucci/
+      url: "nicolas.labroche@univ-tours.fr"
 
 - name: Patrick Marcel
   pic: PM
-  position: University of Orléans
+  position: LIFO - University of Orléans (France)
   social:
     - title: university
       url: http://www.info.univ-tours.fr/~marcel/
@@ -39,15 +56,6 @@ people:
       url: "mailto:patrick.marcel@univ-orleans.fr"
     - title: linkedin
       url: https://www.linkedin.com/in/patrick-marcel-58b42534/
-
-- name: Stefanie Scherzinger
-  pic: SS
-  position: University of Passau
-  social:
-    - title: university
-      url: https://www.fim.uni-passau.de/en/database-systems
-    - title: at
-      url: "mailto:Stefanie.Scherzinger@uni-passau.de"
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
