@@ -13,21 +13,18 @@ people:
   social:
     - title: at
       url: "julien.aligon@irit.fr"
-
 - name: Anton Dignos
   pic: AD
   position: Free University of Bozen-Bolzano (Italy)
   social:
     - title: at
       url: "elodie.escriva@irit.fr"
-
 - name: Elodie Escriva
   pic: EE
   position: IRIT - University Toulouse Capitole (France)
   social:
     - title: at
       url: "elodie.escriva@irit.fr"
-
 - name: Matteo Francia
   pic: MF
   position: DISI - University of Bologna (Italy)
@@ -38,14 +35,12 @@ people:
       url: "mailto:m.francia@unibo.it"
     - title: linkedin
       url: https://www.linkedin.com/in/matteo-francia/
-
 - name: Nicolas Labroche
   pic: NL
   position: LIFAT - University of Tours (France)
   social:
     - title: at
       url: "nicolas.labroche@univ-tours.fr"
-
 - name: Patrick Marcel
   pic: PM
   position: LIFO - University of Orléans (France)
